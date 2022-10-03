@@ -1,0 +1,22 @@
+{
+  "name": "myspexlist",
+  "version": "1.0.0",
+  "description": "List for ranking the different spex in Lund",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/philip-nielsen/MySpexList.git"
+  },
+  "author": "Tair Nielsen & Philip Stenlund",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/philip-nielsen/MySpexList/issues"
+  },
+  "homepage": "https://github.com/philip-nielsen/MySpexList#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
